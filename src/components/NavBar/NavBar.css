@@ -1,0 +1,20 @@
+.NavItems {
+  display: grid;
+  grid-template-columns: repeat(4,auto);
+  grid-gap: 20px;
+  list-style: none;
+  text-align: center;
+
+}
+
+.NavUrl {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+
+.Navigation {
+  height: 100px;
+  background: linear-gradient(120deg, #00FEEF, #09EBEE, #19CEEB, #28ACEA, #388EE9, #3D76E0);
+  display: flex;
+}
