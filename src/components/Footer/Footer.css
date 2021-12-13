@@ -1,0 +1,14 @@
+.Footer{
+    background-color: #282c34;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.Footer-header {
+    background: #282c34;
+    color: white;
+
+}

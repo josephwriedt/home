@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.Main-Content{
+  padding: 20px;
+  background: #282c34;
+  flex: 1;
+  text-align: center;
+}
